@@ -2,7 +2,7 @@
 
 ## 💻 Full Stack Developer | AI/ML Enthusiast | Computer Science Student
 
-🎓 Second-Year Computer Science Student passionate about building real-world applications and solving problems through technology.
+Computer Science Student passionate about building real-world applications and solving problems through technology.
 
 🌱 Currently Learning
 
