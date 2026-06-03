@@ -1,53 +1,63 @@
 # Hi there 👋 I'm Sakshi Choudhary
 
-## 💻 Full Stack Developer | AI/ML Enthusiast | Computer Science Student
+## 📊 Data Analytics Enthusiast | AI/ML Learner | Computer Science Student
 
-Computer Science Student passionate about building real-world applications and solving problems through technology.
+Computer Science Student passionate about transforming data into meaningful insights and building technology-driven solutions. I enjoy analyzing datasets, creating dashboards, and developing applications that solve real-world problems.
 
 🌱 Currently Learning
 
-* Artificial Intelligence & Machine Learning
 * Data Analytics
-* Backend Development with Node.js & Express
-* MongoDB & Database Design
+* Power BI & KPI Dashboard Development
+* Artificial Intelligence & Machine Learning
+* Advanced SQL & Database Design
+* Full Stack Web Development
 * Data Structures & Algorithms
 
 ## 🚀 Skills & Technologies
 
-### Frontend
+### Data Analytics
 
-* HTML5
-* CSS3
-* Bootstrap
-* JavaScript (ES6+)
-* React.js
-* Responsive Web Design
+* Microsoft Excel
+* Power BI
+* SQL
+* Python (Pandas, NumPy, Matplotlib)
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* KPI Tracking & Business Insights
 
-### Backend
+### Programming Languages
 
-* Node.js
-* Express.js
-* REST APIs
+* Python
+* Java
+* C++
+* C
+* JavaScript
 
 ### Databases
 
 * MySQL
 * MongoDB
 
-### Programming Languages
+### Frontend Development
 
-* C
-* C++
-* Java
-* Python
+* HTML5
+* CSS3
+* Bootstrap
 * JavaScript
+* React.js
+
+### Backend Development
+
+* Node.js
+* Express.js
+* REST APIs
 
 ### Core Computer Science
 
 * Data Structures & Algorithms
 * Object-Oriented Programming
 * DBMS
-* SQL
 * Operating Systems
 * Computer Networks
 
@@ -56,9 +66,19 @@ Computer Science Student passionate about building real-world applications and s
 * Git
 * GitHub
 * VS Code
+* Jupyter Notebook
+* Google Colab
 * Power BI
 
 ## 🚀 Featured Projects
+
+### 📊 Sales Performance Dashboard
+
+Analyzed sales data using Excel, SQL, Python, and Power BI to track KPIs, sales trends, profit trends, customer segments, and category performance.
+
+### 📈 Business KPI Dashboard
+
+Built an interactive dashboard for monitoring key business metrics including revenue, profit margin, order volume, and growth trends.
 
 ### 🤖 AI Documentary Generator
 
@@ -72,31 +92,24 @@ Create AI-assisted film concepts, scripts, and visual content.
 
 A platform where students can post doubts and receive answers from peers.
 
-### 📚 Flashcard Revision Tool
-
-Interactive flashcard application for efficient learning and revision.
-
-### 🌐 Portfolio CMS
-
-Dynamic portfolio website with editable sections, project management, and content updates.
-
 ### 🏫 Complaint & Suggestion Portal
 
 Web-based portal for managing hostel and college complaints and suggestions.
 
 ## 📈 Current Goals
 
-* Master Full Stack Development
-* Build Production-Ready Applications
-* Learn Machine Learning & Deep Learning
-* Secure Software Development / AI Internships
+* Secure a Data Analytics Internship
+* Master SQL, Power BI, and Python for Analytics
+* Build End-to-End Data Analytics Projects
+* Learn Machine Learning & Predictive Analytics
+* Contribute to Open Source Projects
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/sakshi-choudhary-a19840367/
+💼 LinkedIn: linkedin.com/in/sakshi-choudhary-a19840367
 
 📧 Email: [sakshichoudhary0411@gmail.com](mailto:sakshichoudhary0411@gmail.com)
 
 ---
 
-⭐ Always learning, building, and exploring new technologies.
+⭐ Passionate about turning data into insights and continuously learning new technologies.
